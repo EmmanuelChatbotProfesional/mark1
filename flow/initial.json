@@ -1,9 +1,9 @@
-{
-    "STEP_1":{
-        "replyMessage":[
-            "Esto es una nota de voz \n"
+[
+    {
+        "keywords":  [
+            "Andrey",
         ],
-        "media":"Emmanuel.mp3",
-        "trigger":null
-    }
-}
+        "key": "STEP_1"
+    },
+
+]
